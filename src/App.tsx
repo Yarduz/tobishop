@@ -9,6 +9,7 @@ function App() {
     <MyContext.Provider value={myData}>
       <div className="App">
         <h1>lets go</h1>
+        <h1>Brandon</h1>
       </div>
     </MyContext.Provider>
   );
