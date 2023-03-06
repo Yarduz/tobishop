@@ -12,7 +12,7 @@ function App() {
     <MyContext.Provider value={myData}>
       <div className="App">
         <AppRouter></AppRouter>
-        <h1>lets go</h1>
+        <h1>let's go</h1>
       </div>
     </MyContext.Provider>
   );
