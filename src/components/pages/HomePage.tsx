@@ -1,7 +1,7 @@
 import React from 'react';
 import './HomePage.css';
 
-function HompePage() {
+function HomePage() {
     return (
         <div className="App">
             homepage
@@ -9,4 +9,4 @@ function HompePage() {
     );
 }
 
-export default HompePage;
+export default HomePage;
