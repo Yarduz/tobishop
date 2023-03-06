@@ -1,7 +1,8 @@
-import * as React from 'react';
+import React from 'react';
 import './HomePage.css';
+import 'react-bootstrap';
 
-function HomePage(): React.ReactElement {
+function HomePage() {
     return (
         <div className="App">
             hompepage
