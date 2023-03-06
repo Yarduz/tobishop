@@ -4,7 +4,7 @@ import './HomePage.css';
 function HomePage() {
     return (
         <div className="App">
-            homepage
+            hompepage
         </div>
     );
 }
