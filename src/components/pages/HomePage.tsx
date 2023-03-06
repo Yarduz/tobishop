@@ -1,7 +1,7 @@
-import React from 'react';
+import * as React from 'react';
 import './HomePage.css';
 
-function HomePage() {
+function HomePage(): React.ReactElement {
     return (
         <div className="App">
             hompepage
